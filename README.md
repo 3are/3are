@@ -16,4 +16,4 @@
 
 **Runtime Envs**
 - Nodejs
-<img src="https://api.kai-to.pro/assets/images/nodejs.png" width="60" height="60">
+<img src="https://api.kai-to.pro/assets/images/nodejs.png" width="200" height="200">
